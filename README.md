@@ -14,5 +14,5 @@ The Employee Attrition Dashboard project aims to provide a comprehensive analyti
 • Dynamic Charts<br/>
 
 
-# DashBoard
+# DashBoard <img src ="https://github.com/user-attachments/assets/07ebdd68-5c80-4631-9ef0-8e37d996547c" width="60" height="60" alt = "Your Image"> 
 ![Screenshot 2024-09-24 181121](https://github.com/user-attachments/assets/b159af38-6009-4002-8a7b-863ac3113156)
