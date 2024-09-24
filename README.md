@@ -15,4 +15,4 @@ The Employee Attrition Dashboard project aims to provide a comprehensive analyti
 
 
 # DashBoard
-[Screenshot 2024-09-24 181121](https://github.com/user-attachments/assets/b159af38-6009-4002-8a7b-863ac3113156)"
+![Screenshot 2024-09-24 181121](https://github.com/user-attachments/assets/b159af38-6009-4002-8a7b-863ac3113156)
