@@ -13,5 +13,5 @@ The Employee Attrition Dashboard project aims to provide a comprehensive analyti
 • Slicers<br/>
 • Dynamic Charts<br/>
 
-# DashBoard <img src ="https://github.com/user-attachments/assets/ef8a0992-c2db-4169-a10b-eaa83d01afde" width="80" height="80" alt = "Your Image"> 
+# DashBoard <img src ="https://github.com/user-attachments/assets/ef8a0992-c2db-4169-a10b-eaa83d01afde" width="60" height="60" alt = "Your Image"> 
 ![Screenshot 2024-09-24 181121](https://github.com/user-attachments/assets/b159af38-6009-4002-8a7b-863ac3113156)
