@@ -11,3 +11,7 @@ The Employee Attrition Dashboard project aims to provide a comprehensive analyti
 • Formulas and Functions<br/>
 • Slicers<br/>
 • Dynamic Charts<br/>
+
+
+# DashBoard
+<img src="https://github.com/user-attachments/assets/1e030ed6-0a53-450e-b735-9e82ff755f17)">
